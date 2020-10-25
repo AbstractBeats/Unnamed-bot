@@ -1,2 +1,3 @@
-# Unnamed-bot
-a bot on discord ig
+OOT OOT
+
+Bot shit
